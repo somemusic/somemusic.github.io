@@ -13,8 +13,6 @@ document.addEventListener("DOMContentLoaded", async () => {
   const tagsRequest = await fetch("../data/tags.json");
   tracks = await tracksRequest.json();
   allTags = await tagsRequest.json();
-  console.writeline(tracks);
-  console.writeline(tags);
   filteredTracks = [...tracks].sort((a, b) => new Date(b.date) - new Date(a.date));
   renderTracks();
   filteredTags.push(...allTags);
@@ -44,7 +42,7 @@ function renderTracks() {
           <p class="song-date">${track.date}</p>
           <div>
             <button class="play-pause-buttons" onclick="playTrack('${track.fichier}', '${track.titre}')"><b>⏵</b></button>
-            <a target="_blank" href="${track.fichier}" download="name.mp3"><button class="play-pause-buttons"><img class="download-button" src="assets/img/download-button.svg"/></button></a>
+            <a target="_blank" href="${track.fichier}" download><button class="play-pause-buttons"><img class="download-button" src="assets/img/download-button.svg"/></button></a>
           </div> 
         </div>
         <div class="article-item"><p>${track.description}</p></div>
