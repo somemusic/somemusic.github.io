@@ -13,6 +13,8 @@ document.addEventListener("DOMContentLoaded", async () => {
   const tagsRequest = await fetch("../data/tags.json");
   tracks = await tracksRequest.json();
   allTags = await tagsRequest.json();
+  console.writeline(tracks);
+  console.writeline(tags);
   filteredTracks = [...tracks].sort((a, b) => new Date(b.date) - new Date(a.date));
   renderTracks();
   filteredTags.push(...allTags);
