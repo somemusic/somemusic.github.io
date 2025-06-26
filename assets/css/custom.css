@@ -1,0 +1,91 @@
+.tag {
+  padding: 0.25em 0.6em;
+  border-radius: 1em;
+  font-size: 0.8em;
+  color: white;
+  margin-right: 0.3em;
+}
+
+#header {
+  background-color: black;
+}
+
+#header-logo {
+  cursor: pointer;
+  margin: 0;
+  height: 100px;
+}
+
+#header-project {
+  cursor: pointer;
+}
+
+#project-list {
+  margin-top: 30px;
+  width: 300px;
+  color: white;
+  background-color: black;
+}
+
+#current-tags {
+  margin-bottom: 50px;
+}
+
+.article-item {
+  height: 100%;
+  align-content: center;
+}
+
+.song-date {
+  font-size: 15px;
+  color: gray;
+  padding: 0px;
+}
+
+.play-pause-buttons {
+  font-size: 20px;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  padding-left: 3%;
+  padding-right: 3%;
+  font-family: Tahoma;
+  margin-right: 10px;
+}
+
+.download-button {
+  width: 25px;
+}
+
+.miniature {
+  max-height: 150px;
+  border-radius: 10px;
+}
+
+.pagination {
+  margin-bottom: 150px;
+}
+
+.footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background-color: black;
+  opacity: 80%;
+}
+
+.footer-content {
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+#player-title {
+  opacity: 100%;
+  color: white;
+}
+
+#audio-player {
+  width: 100%;
+  height: 50px;
+  opacity: 100%;
+}

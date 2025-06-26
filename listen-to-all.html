@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="fr" data-theme="light">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Some Music</title>
+  <link rel="stylesheet" href="https://unpkg.com/@picocss/pico@latest">
+  <link rel="stylesheet" href="assets/css/custom.css">
+  <script defer src="assets/js/app.js"></script>
+</head>
+<body>
+
+  <!-- Menu -->
+  <header id="header">
+    <nav class="container-fluid" id="menu">
+      <ul>
+        <li><div onclick="filterTracksByTag('ALL')"><img id="header-logo" src="assets/img/logo.svg"></div></li>
+      </ul>
+      <ul>
+        <select id="project-list">
+          <option value="ALL" selected>All projects</option>
+          <option value="projet1">Projet 1</option>
+          <option value="projet2">Projet 2</option>
+        </select>
+      </ul>
+      <ul><li></li></ul><ul><li></li></ul><ul><li></li></ul><ul><li></li></ul><ul><li></li></ul><ul><li></li></ul>
+    </nav>
+  </header>
+
+  <main class="container">
+    <!-- Tags courants -->
+    <div class="grid">
+      <div id="current-tags"></div>
+    </div>
+
+    <!-- Barre de recherche -->
+    <input type="search" id="search" placeholder="Search..." oninput="searchTracks(this.value)">
+
+    <!-- Liste des morceaux -->
+    <div id="track-list" class="container"></div>
+
+    <!-- Pagination -->
+    <nav>
+      <ul class="pagination" id="pagination"></ul>
+    </nav>
+  </main>
+
+  <!-- Lecteur transverse -->
+  <footer class="footer">
+    <div class="footer-content">
+      <div>
+        <strong id="player-title">Aucun morceau en cours</strong>
+      </div>
+      <div>
+        <audio id="audio-player" controls></audio>
+      </div>
+    </div>
+  </footer>
+
+</body>
+</html>
