@@ -10,7 +10,7 @@ let filteredTags = [allTag];
 // INIT
 document.addEventListener("DOMContentLoaded", async () => {
   const tracksRequest = await fetch("../data/tracks.json");
-  const tagsRequest = await fetch("../data/tracks.json");
+  const tagsRequest = await fetch("../data/tags.json");
   tracks = await tracksRequest.json();
   allTags = await tagsRequest.json();
   filteredTracks = [...tracks].sort((a, b) => new Date(b.date) - new Date(a.date));
