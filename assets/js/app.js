@@ -1,7 +1,7 @@
-// let tracks = []; // Comment and uncomment below if local
-let tracks = [{"titre":"ChillMountain1","fichier":"assets/mp3/CM01.wav","miniature":"assets/img/ChillMountain.png","description":"Pianopiece.Peaceful&relaxing.","date":"May2023","tags":["chillmountain","piano"]},{"titre":"ChillMountain2","fichier":"assets/mp3/CM02.wav","miniature":"assets/img/ChillMountain.png","description":"Pianopiece.Peaceful&relaxing.","date":"May2023","tags":["chillmountain","piano"]},{"titre":"ChillMountain3","fichier":"assets/mp3/CM03.wav","miniature":"assets/img/ChillMountain.png","description":"Pianopiece.Peaceful&relaxing.","date":"May2023","tags":["chillmountain","piano"]},{"titre":"TokaiRock","fichier":"assets/mp3/TokaiRock.mp3","miniature":"assets/img/Handpan_EP.png","description":"Littlecompositionfor1handpandrumand2baguettes.","date":"October2023","tags":["handpanep"]},{"titre":"SomTree","fichier":"assets/mp3/SomTree.mp3","miniature":"assets/img/Handpan_EP.png","description":"Littlecompositionfor1handpandrumand2baguettes.","date":"October2023","tags":["handpanep"]},{"titre":"Iridescence","fichier":"assets/mp3/Iridescence.mp3","miniature":"assets/img/Handpan_EP.png","description":"Littlecompositionfor1handpandrumand2baguettes.","date":"October2023","tags":["handpanep"]}]; 
-// let allTags = []; // Comment and uncomment below if local
-let allTags = [{"label":"chillmountain","couleur":"#007BFF"},{"label":"piano","couleur":"#6C757D"},{"label":"handpanep","couleur":"#6610f2"}]; 
+let tracks = []; // Comment and uncomment below if local
+// let tracks = [{"titre":"ChillMountain1","fichier":"assets/mp3/CM01.wav","miniature":"assets/img/ChillMountain.png","description":"Pianopiece.Peaceful&relaxing.","date":"May2023","tags":["chillmountain","piano"]},{"titre":"ChillMountain2","fichier":"assets/mp3/CM02.wav","miniature":"assets/img/ChillMountain.png","description":"Pianopiece.Peaceful&relaxing.","date":"May2023","tags":["chillmountain","piano"]},{"titre":"ChillMountain3","fichier":"assets/mp3/CM03.wav","miniature":"assets/img/ChillMountain.png","description":"Pianopiece.Peaceful&relaxing.","date":"May2023","tags":["chillmountain","piano"]},{"titre":"TokaiRock","fichier":"assets/mp3/TokaiRock.mp3","miniature":"assets/img/Handpan_EP.png","description":"Littlecompositionfor1handpandrumand2baguettes.","date":"October2023","tags":["handpanep"]},{"titre":"SomTree","fichier":"assets/mp3/SomTree.mp3","miniature":"assets/img/Handpan_EP.png","description":"Littlecompositionfor1handpandrumand2baguettes.","date":"October2023","tags":["handpanep"]},{"titre":"Iridescence","fichier":"assets/mp3/Iridescence.mp3","miniature":"assets/img/Handpan_EP.png","description":"Littlecompositionfor1handpandrumand2baguettes.","date":"October2023","tags":["handpanep"]}]; 
+let allTags = []; // Comment and uncomment below if local
+// let allTags = [{"label":"chillmountain","couleur":"#007BFF"},{"label":"piano","couleur":"#6C757D"},{"label":"handpanep","couleur":"#6610f2"}]; 
 let allTag = { "label": "ALL", "couleur": "#000000" }
 
 let currentPage = 1;
@@ -11,10 +11,10 @@ let filteredTags = [allTag];
 
 // INIT
 document.addEventListener("DOMContentLoaded", async () => {
-  // const tracksRequest = await fetch("../data/tracks.json");
-  // const tagsRequest = await fetch("../data/tags.json");
-  // tracks = await tracksRequest.json();
-  // allTags = await tagsRequest.json(); // Comment if local
+  const tracksRequest = await fetch("../data/tracks.json"); // Comment if local
+  const tagsRequest = await fetch("../data/tags.json"); // Comment if local
+  tracks = await tracksRequest.json(); // Comment if local
+  allTags = await tagsRequest.json(); // Comment if local
   filteredTracks = [...tracks].sort((a, b) => new Date(b.date) - new Date(a.date));
   renderTracks();
   filteredTags.push(...allTags);
