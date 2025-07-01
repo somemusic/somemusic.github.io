@@ -22,7 +22,7 @@
 
 #project-list {
   margin-top: 30px;
-  width: 300px;
+  width: 200px;
   color: white;
   background-color: black;
 }
@@ -52,7 +52,7 @@
   margin-right: 10px;
 }
 
-.download-button {
+.download-button .play-button {
   width: 25px;
 }
 

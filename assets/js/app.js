@@ -41,7 +41,7 @@ function renderTracks() {
           <h3>${track.titre}</h3>
           <p class="song-date">${track.date}</p>
           <div>
-            <button class="play-pause-buttons" onclick="playTrack('${track.fichier}', '${track.titre}')"><b>⏵</b></button>
+            <button class="play-pause-buttons" onclick="playTrack('${track.fichier}', '${track.titre}')"><img class="play-button" src="assets/img/play-button.svg"/></button>
             <a target="_blank" href="${track.fichier}" download><button class="play-pause-buttons"><img class="download-button" src="assets/img/download-button.svg"/></button></a>
           </div> 
         </div>
@@ -127,5 +127,6 @@ function playTrack(src, title) {
   const label = document.getElementById("player-title");
   player.src = src;
   player.play();
+  
   label.textContent = title;
 }
