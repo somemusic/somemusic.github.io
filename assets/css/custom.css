@@ -52,8 +52,9 @@
   margin-right: 10px;
 }
 
-.download-button .play-button {
+.play-download-button {
   width: 25px;
+  margin-top: -4px;
 }
 
 .miniature {
