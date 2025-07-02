@@ -10,5 +10,17 @@
     {
         "label": "handpan ep",
         "couleur": "#6610f2"
+    },
+    {
+        "label": "ukulele",
+        "couleur": "#7054f0"
+    },
+    {
+        "label": "summer",
+        "couleur": "#c1f054"
+    },
+    {
+        "label": "ukulex",
+        "couleur": "#eb3d34"
     }
 ]

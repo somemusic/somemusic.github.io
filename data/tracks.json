@@ -1,7 +1,7 @@
 [
   {
     "titre": "Chill Mountain 1",
-    "fichier": "assets/mp3/CM01.wav",
+    "fichier": "assets/mp3/CM01.mp3",
     "miniature": "assets/img/ChillMountain.png",
     "description": "Piano piece. Peaceful & relaxing.",
     "date": "May 2023",
@@ -12,7 +12,7 @@
   },
   {
     "titre": "Chill Mountain 2",
-    "fichier": "assets/mp3/CM02.wav",
+    "fichier": "assets/mp3/CM02.mp3",
     "miniature": "assets/img/ChillMountain.png",
     "description": "Piano piece. Peaceful & relaxing.",
     "date": "May 2023",
@@ -23,7 +23,73 @@
   },
   {
     "titre": "Chill Mountain 3",
-    "fichier": "assets/mp3/CM03.wav",
+    "fichier": "assets/mp3/CM03.mp3",
+    "miniature": "assets/img/ChillMountain.png",
+    "description": "Piano piece. Peaceful & relaxing.",
+    "date": "May 2023",
+    "tags": [
+      "chill mountain",
+      "piano"
+    ]
+  },
+    {
+    "titre": "Chill Mountain 4",
+    "fichier": "assets/mp3/CM04.mp3",
+    "miniature": "assets/img/ChillMountain.png",
+    "description": "Piano piece. Peaceful & relaxing.",
+    "date": "May 2023",
+    "tags": [
+      "chill mountain",
+      "piano"
+    ]
+  },
+    {
+    "titre": "Chill Mountain 5",
+    "fichier": "assets/mp3/CM05.mp3",
+    "miniature": "assets/img/ChillMountain.png",
+    "description": "Piano piece. Peaceful & relaxing.",
+    "date": "May 2023",
+    "tags": [
+      "chill mountain",
+      "piano"
+    ]
+  },
+    {
+    "titre": "Chill Mountain 6",
+    "fichier": "assets/mp3/CM06.mp3",
+    "miniature": "assets/img/ChillMountain.png",
+    "description": "Piano piece. Peaceful & relaxing.",
+    "date": "May 2023",
+    "tags": [
+      "chill mountain",
+      "piano"
+    ]
+  },
+    {
+    "titre": "Chill Mountain 7",
+    "fichier": "assets/mp3/CM07.mp3",
+    "miniature": "assets/img/ChillMountain.png",
+    "description": "Piano piece. Peaceful & relaxing.",
+    "date": "May 2023",
+    "tags": [
+      "chill mountain",
+      "piano"
+    ]
+  },
+    {
+    "titre": "Chill Mountain 8",
+    "fichier": "assets/mp3/CM08.mp3",
+    "miniature": "assets/img/ChillMountain.png",
+    "description": "Piano piece. Peaceful & relaxing.",
+    "date": "May 2023",
+    "tags": [
+      "chill mountain",
+      "piano"
+    ]
+  },
+    {
+    "titre": "Chill Mountain 9",
+    "fichier": "assets/mp3/CM09.mp3",
     "miniature": "assets/img/ChillMountain.png",
     "description": "Piano piece. Peaceful & relaxing.",
     "date": "May 2023",
@@ -60,6 +126,66 @@
     "date": "October 2023",
     "tags": [
       "handpan ep"
+    ]
+  },
+  {
+    "titre": "Crab",
+    "fichier": "assets/mp3/Crab.mp3",
+    "miniature": "assets/img/Ukulex.png",
+    "description": "Uku & whistle song.",
+    "date": "November 2023",
+    "tags": [
+      "ukulex", "ukulele", "summer"
+    ]
+  },
+  {
+    "titre": "Gobi",
+    "fichier": "assets/mp3/Gobi.mp3",
+    "miniature": "assets/img/Ukulex.png",
+    "description": "Uku & whistle song.",
+    "date": "November 2023",
+    "tags": [
+      "ukulex", "ukulele", "summer"
+    ]
+  },
+  {
+    "titre": "Legend",
+    "fichier": "assets/mp3/Legend.mp3",
+    "miniature": "assets/img/Ukulex.png",
+    "description": "Uku & whistle song. Adapted from a Rayman Legend theme.",
+    "date": "November 2023",
+    "tags": [
+      "ukulex", "ukulele", "summer"
+    ]
+  },
+  {
+    "titre": "Origin",
+    "fichier": "assets/mp3/Origin.mp3",
+    "miniature": "assets/img/Ukulex.png",
+    "description": "Uku & whistle song. Adapted from a Rayman Origin theme.",
+    "date": "November 2023",
+    "tags": [
+      "ukulex", "ukulele", "summer"
+    ]
+  },
+  {
+    "titre": "Tortuga",
+    "fichier": "assets/mp3/Tortuga.mp3",
+    "miniature": "assets/img/Ukulex.png",
+    "description": "Uku & whistle song.",
+    "date": "November 2023",
+    "tags": [
+      "ukulex", "ukulele", "summer"
+    ]
+  },
+  {
+    "titre": "Zarb",
+    "fichier": "assets/mp3/Zarb.mp3",
+    "miniature": "assets/img/Ukulex.png",
+    "description": "Uku & whistle song.",
+    "date": "November 2023",
+    "tags": [
+      "ukulex", "ukulele", "summer"
     ]
   }
 ]
