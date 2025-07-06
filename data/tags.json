@@ -17,10 +17,34 @@
     },
     {
         "label": "summer",
-        "couleur": "#c1f054"
+        "couleur": "#e68200"
     },
     {
         "label": "ukulex",
         "couleur": "#eb3d34"
+    },
+    {
+        "label": "jazz",
+        "couleur": "#1707f7"
+    },
+    {
+        "label": "orchestral",
+        "couleur": "#6f0b73"
+    },
+    {
+        "label": "hangnudu works",
+        "couleur": "#1d5228"
+    },
+    {
+        "label": "handpan",
+        "couleur": "#d49f4a"
+    },
+    {
+        "label": "nature",
+        "couleur": "#83b372"
+    },
+    {
+        "label": "defouloirs",
+        "couleur": "#1e224f"
     }
 ]
