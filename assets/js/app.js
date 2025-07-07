@@ -142,7 +142,7 @@ function playNextSong(){
   const currentSong = label.textContent;
   const indexOfSongInTracks = filteredTracks.findIndex(track => track.titre == currentSong);
   console.log(indexOfSongInTracks);
-  const nextTrack = null;
+  var nextTrack = null;
   if (indexOfSongInTracks == filteredTracks.length)
   {
     nextTrack = filteredTracks[0];
