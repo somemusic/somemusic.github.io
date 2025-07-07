@@ -207,5 +207,55 @@
     "tags": [
       "orchestral"
     ]
+  },
+  {
+    "titre": "HnU01 - Rukt (training)",
+    "fichier": "assets/mp3/HnU01 - Rukt (training).mp3",
+    "miniature": "assets/img/HangNUdu.png",
+    "description": "Rythmical forest song, fake handpan and udu.",
+    "date": "December 2018",
+    "tags": [
+      "hangnudu works", "handpan", "nature"
+    ]
+  },
+  {
+    "titre": "HnU02 - Gulo (a meal)",
+    "fichier": "assets/mp3/HnU02 - Gulo (a meal).mp3",
+    "miniature": "assets/img/HangNUdu.png",
+    "description": "Rythmical forest song, fake handpan and udu.",
+    "date": "December 2018",
+    "tags": [
+      "hangnudu works", "handpan", "nature"
+    ]
+  },
+  {
+    "titre": "HnU03 - Sen Boou (wide forest)",
+    "fichier": "assets/mp3/HnU03 - Sen Boou (wide forest).mp3",
+    "miniature": "assets/img/HangNUdu.png",
+    "description": "Rythmical forest song, fake handpan and udu.",
+    "date": "December 2018",
+    "tags": [
+      "hangnudu works", "handpan", "nature"
+    ]
+  },
+  {
+    "titre": "HnU04 - Lillin (women)",
+    "fichier": "assets/mp3/HnU04 - Lillin (women).mp3",
+    "miniature": "assets/img/HangNUdu.png",
+    "description": "Rythmical forest song, fake handpan and udu.",
+    "date": "December 2018",
+    "tags": [
+      "hangnudu works", "handpan", "nature"
+    ]
+  },
+  {
+    "titre": "HnU05 - Kudu (working)",
+    "fichier": "assets/mp3/HnU05 - Kudu (working).mp3",
+    "miniature": "assets/img/HangNUdu.png",
+    "description": "Rythmical forest song, fake handpan and udu.",
+    "date": "December 2018",
+    "tags": [
+      "hangnudu works", "handpan", "nature"
+    ]
   }
 ]
