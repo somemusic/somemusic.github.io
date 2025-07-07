@@ -209,7 +209,7 @@
     ]
   },
   {
-    "titre": "HnU01 - Rukt (training)",
+    "titre": "Rukt (training)",
     "fichier": "assets/mp3/HnU01 - Rukt (training).mp3",
     "miniature": "assets/img/HangNUdu.png",
     "description": "Rythmical forest song, fake handpan and udu.",
@@ -219,7 +219,7 @@
     ]
   },
   {
-    "titre": "HnU02 - Gulo (a meal)",
+    "titre": "Gulo (a meal)",
     "fichier": "assets/mp3/HnU02 - Gulo (a meal).mp3",
     "miniature": "assets/img/HangNUdu.png",
     "description": "Rythmical forest song, fake handpan and udu.",
@@ -229,7 +229,7 @@
     ]
   },
   {
-    "titre": "HnU03 - Sen Boou (wide forest)",
+    "titre": "Sen Boou (wide forest)",
     "fichier": "assets/mp3/HnU03 - Sen Boou (wide forest).mp3",
     "miniature": "assets/img/HangNUdu.png",
     "description": "Rythmical forest song, fake handpan and udu.",
@@ -239,7 +239,7 @@
     ]
   },
   {
-    "titre": "HnU04 - Lillin (women)",
+    "titre": "Lillin (women)",
     "fichier": "assets/mp3/HnU04 - Lillin (women).mp3",
     "miniature": "assets/img/HangNUdu.png",
     "description": "Rythmical forest song, fake handpan and udu.",
@@ -249,8 +249,58 @@
     ]
   },
   {
-    "titre": "HnU05 - Kudu (working)",
+    "titre": "Kudu (working)",
     "fichier": "assets/mp3/HnU05 - Kudu (working).mp3",
+    "miniature": "assets/img/HangNUdu.png",
+    "description": "Rythmical forest song, fake handpan and udu.",
+    "date": "December 2018",
+    "tags": [
+      "hangnudu works", "handpan", "nature"
+    ]
+  },
+  {
+    "titre": "Veo Do (joy)",
+    "fichier": "assets/mp3/HnU06 - Veo Do (joy).mp3",
+    "miniature": "assets/img/HangNUdu.png",
+    "description": "Rythmical forest song, fake handpan and udu.",
+    "date": "December 2018",
+    "tags": [
+      "hangnudu works", "handpan", "nature"
+    ]
+  },
+  {
+    "titre": "Dii (community)",
+    "fichier": "assets/mp3/HnU07 - Dii (community).mp3",
+    "miniature": "assets/img/HangNUdu.png",
+    "description": "Rythmical forest song, fake handpan and udu.",
+    "date": "December 2018",
+    "tags": [
+      "hangnudu works", "handpan", "nature"
+    ]
+  },
+  {
+    "titre": "Toka (hunting)",
+    "fichier": "assets/mp3/HnU08 - Toka (hunting).mp3",
+    "miniature": "assets/img/HangNUdu.png",
+    "description": "Rythmical forest song, fake handpan and udu.",
+    "date": "December 2018",
+    "tags": [
+      "hangnudu works", "handpan", "nature"
+    ]
+  },
+  {
+    "titre": "Glo (the river)",
+    "fichier": "assets/mp3/HnU09 - Glo (the river).mp3",
+    "miniature": "assets/img/HangNUdu.png",
+    "description": "Rythmical forest song, fake handpan and udu.",
+    "date": "December 2018",
+    "tags": [
+      "hangnudu works", "handpan", "nature"
+    ]
+  },
+  {
+    "titre": "Glu Fiza (rain)",
+    "fichier": "assets/mp3/HnU10 - Glu Fiza (rain).mp3",
     "miniature": "assets/img/HangNUdu.png",
     "description": "Rythmical forest song, fake handpan and udu.",
     "date": "December 2018",
