@@ -142,8 +142,16 @@ function playNextSong(){
   const currentSong = label.textContent;
   const indexOfSongInTracks = filteredTracks.findIndex(track => track.titre == currentSong);
   console.log(indexOfSongInTracks);
-  const nextTrack = filteredTracks[indexOfSongInTracks + 1]; 
-  console.log(nextTrack);
+  const nextTrack = null;
+  if (indexOfSongInTracks == filteredTracks.length())
+  {
+    nextTrack = filteredTracks[0];
+  }
+  else 
+  {
+    nextTrack = filteredTracks[indexOfSongInTracks + 1];
+  }
+   
   if (nextTrack){
     const player = document.getElementById("audio-player");
     player.src = nextTrack.fichier;
