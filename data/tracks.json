@@ -407,5 +407,55 @@
     "tags": [
       "hangnudu works", "handpan", "nature"
     ]
+  },
+  {
+    "titre": "All Night",
+    "fichier": "assets/mp3/All Night.mp3",
+    "miniature": "assets/img/Defouloirs.png",
+    "description": "My piano version of Parov Stelar's All Night song.",
+    "date": "2022",
+    "tags": [
+      "defouloirs", "piano"
+    ]
+  },
+  {
+    "titre": "Harmonium",
+    "fichier": "assets/mp3/Harmonium.mp3",
+    "miniature": "assets/img/Defouloirs.png",
+    "description": "A piano version of a 1975 song by Harmonium named Dixie.",
+    "date": "2022",
+    "tags": [
+      "defouloirs", "piano"
+    ]
+  },
+  {
+    "titre": "Interstellar",
+    "fichier": "assets/mp3/Interstellar.mp3",
+    "miniature": "assets/img/Defouloirs.png",
+    "description": "A piano version of Hans Zimmer's Cornfield Chase song.",
+    "date": "2022",
+    "tags": [
+      "defouloirs", "piano"
+    ]
+  },
+  {
+    "titre": "Le Jabberwoc",
+    "fichier": "assets/mp3/Le Jabberwoc.mp3",
+    "miniature": "assets/img/Defouloirs.png",
+    "description": "A piano version of a Steve Waring song.",
+    "date": "2022",
+    "tags": [
+      "defouloirs", "piano"
+    ]
+  },
+  {
+    "titre": "Le Stylo",
+    "fichier": "assets/mp3/Le Stylo.mp3",
+    "miniature": "assets/img/Defouloirs.png",
+    "description": "A piano version of a 1987 Steve Waring Song.",
+    "date": "2022",
+    "tags": [
+      "defouloirs", "piano"
+    ]
   }
 ]
