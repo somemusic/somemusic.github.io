@@ -457,5 +457,45 @@
     "tags": [
       "defouloirs", "piano"
     ]
+  },
+  {
+    "titre": "Le Poinçonneur des Lilas",
+    "fichier": "assets/mp3/Le Poinconneur des Lilas.mp3",
+    "miniature": "assets/img/Defouloirs.png",
+    "description": "My piano version of Serge Gainsbourg's famous song (1958).",
+    "date": "2022",
+    "tags": [
+      "defouloirs", "piano"
+    ]
+  },
+  {
+    "titre": "Plane",
+    "fichier": "assets/mp3/Plane.mp3",
+    "miniature": "assets/img/Defouloirs.png",
+    "description": "A minor and energic piano piece.",
+    "date": "2022",
+    "tags": [
+      "defouloirs", "piano"
+    ]
+  },
+  {
+    "titre": "Spermato Jack",
+    "fichier": "assets/mp3/Spermato Jack.mp3",
+    "miniature": "assets/img/Defouloirs.png",
+    "description": "A minor and energic piano piece.",
+    "date": "2022",
+    "tags": [
+      "defouloirs", "piano"
+    ]
+  },
+  {
+    "titre": "Trompettes De La Renommée",
+    "fichier": "assets/mp3/Trompettes De La Renommee.mp3",
+    "miniature": "assets/img/Defouloirs.png",
+    "description": "A 5/4 piano version of a 1962 Georges Brassens song.",
+    "date": "2022",
+    "tags": [
+      "defouloirs", "piano"
+    ]
   }
 ]
