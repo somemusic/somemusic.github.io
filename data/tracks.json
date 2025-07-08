@@ -637,5 +637,65 @@
     "tags": [
       "piano styles project", "piano"
     ]
+  },
+  {
+    "titre": "Zoo",
+    "fichier": "assets/mp3/07 - Zoo.mp3",
+    "miniature": "assets/img/PSP.png",
+    "description": "",
+    "date": "Mars 2016",
+    "tags": [
+      "piano styles project", "piano"
+    ]
+  },
+  {
+    "titre": "Valse Qui Pique",
+    "fichier": "assets/mp3/08 - Valse Qui Pique.mp3",
+    "miniature": "assets/img/PSP.png",
+    "description": "",
+    "date": "December 2016",
+    "tags": [
+      "piano styles project", "piano"
+    ]
+  },
+  {
+    "titre": "Sucha Rag",
+    "fichier": "assets/mp3/09 - Sucha Rag.mp3",
+    "miniature": "assets/img/PSP.png",
+    "description": "",
+    "date": "December 2016",
+    "tags": [
+      "piano styles project", "piano"
+    ]
+  },
+  {
+    "titre": "Above seas",
+    "fichier": "assets/mp3/10 - Above seas.mp3",
+    "miniature": "assets/img/PSP.png",
+    "description": "",
+    "date": "December 2016",
+    "tags": [
+      "piano styles project", "piano"
+    ]
+  },
+  {
+    "titre": "Albatros",
+    "fichier": "assets/mp3/11 - Albatros.mp3",
+    "miniature": "assets/img/PSP.png",
+    "description": "",
+    "date": "December 2016",
+    "tags": [
+      "piano styles project", "piano"
+    ]
+  },
+  {
+    "titre": "Eleven Clouds",
+    "fichier": "assets/mp3/12 - Eleven Clouds.mp3",
+    "miniature": "assets/img/PSP.png",
+    "description": "",
+    "date": "December 2016",
+    "tags": [
+      "piano styles project", "piano"
+    ]
   }
 ]
