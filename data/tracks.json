@@ -527,5 +527,15 @@
     "tags": [
       "ambient", "japanese"
     ]
+  },
+  {
+    "titre": "Solar",
+    "fichier": "assets/mp3/Solar.mp3",
+    "miniature": "assets/img/Periapside.png",
+    "description": "Atmoshpere/Lounge song inspired by space objects. That one's for the Sun.",
+    "date": "October 2016",
+    "tags": [
+      "ambient", "periapside"
+    ]
   }
 ]
