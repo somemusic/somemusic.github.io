@@ -5,7 +5,7 @@ let allTags = []; // Comment and uncomment below if local
 let allTag = { "label": "ALL", "couleur": "#000000" }
 
 let currentPage = 1;
-const pageSize = 5;
+const pageSize = 10;
 let filteredTracks = [];
 let filteredTags = [allTag];
 
