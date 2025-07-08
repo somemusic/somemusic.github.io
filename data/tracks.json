@@ -537,5 +537,22 @@
     "tags": [
       "ambient", "periapside"
     ]
-  }
+  },
+  {
+    "titre": "D-Strict",
+    "fichier": "assets/mp3/D-Strict.mp3",
+    "miniature": "assets/img/D-Strict.png",
+    "description": "",
+    "date": "February 2011",
+    "tags": []
+  },
+  {
+    "titre": "Fun Winter",
+    "fichier": "assets/mp3/Fun WInter.mp3",
+    "miniature": "assets/img/NoImage.png",
+    "description": "",
+    "date": "December 2009",
+    "tags": []
+  },
+  
 ]
