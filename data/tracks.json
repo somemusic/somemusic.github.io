@@ -577,5 +577,65 @@
     "description": "",
     "date": "Juin 2012",
     "tags": []
+  },
+  {
+    "titre": "Coronita",
+    "fichier": "assets/mp3/01 - Coronita.mp3",
+    "miniature": "assets/img/PSP.png",
+    "description": "",
+    "date": "December 2016",
+    "tags": [
+      "piano styles project", "piano"
+    ]
+  },
+  {
+    "titre": "The LonesomeDonkey",
+    "fichier": "assets/mp3/02 - The Lonesome Donkey.mp3",
+    "miniature": "assets/img/PSP.png",
+    "description": "",
+    "date": "September 2015",
+    "tags": [
+      "piano styles project", "piano"
+    ]
+  },
+  {
+    "titre": "What's Down",
+    "fichier": "assets/mp3/03 - What's Down.mp3",
+    "miniature": "assets/img/PSP.png",
+    "description": "",
+    "date": "January 2016",
+    "tags": [
+      "piano styles project", "piano"
+    ]
+  },
+  {
+    "titre": "Spike",
+    "fichier": "assets/mp3/04 - Spike.mp3",
+    "miniature": "assets/img/PSP.png",
+    "description": "",
+    "date": "December 2016",
+    "tags": [
+      "piano styles project", "piano"
+    ]
+  },
+  {
+    "titre": "Carnicature",
+    "fichier": "assets/mp3/05 - Carnicature.mp3",
+    "miniature": "assets/img/PSP.png",
+    "description": "",
+    "date": "December 2016",
+    "tags": [
+      "piano styles project", "piano"
+    ]
+  },
+  {
+    "titre": "Tango style",
+    "fichier": "assets/mp3/06 - Tango style.mp3",
+    "miniature": "assets/img/PSP.png",
+    "description": "",
+    "date": "December 2016",
+    "tags": [
+      "piano styles project", "piano"
+    ]
   }
 ]
