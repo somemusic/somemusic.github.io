@@ -553,5 +553,29 @@
     "description": "",
     "date": "December 2009",
     "tags": []
+  },
+  {
+    "titre": "Oniric Dance",
+    "fichier": "assets/mp3/Oniric Dance.mp3",
+    "miniature": "assets/img/NoImage.png",
+    "description": "",
+    "date": "May 2011",
+    "tags": []
+  },
+  {
+    "titre": "Perplex Heart",
+    "fichier": "assets/mp3/Perplex Heart.mp3",
+    "miniature": "assets/img/NoImage.png",
+    "description": "",
+    "date": "September 2014",
+    "tags": []
+  },
+  {
+    "titre": "Oeln Gati Kamaye",
+    "fichier": "assets/mp3/Oeln Gati Kamaye.mp3",
+    "miniature": "assets/img/NoImage.png",
+    "description": "",
+    "date": "Juin 2012",
+    "tags": []
   }
 ]
