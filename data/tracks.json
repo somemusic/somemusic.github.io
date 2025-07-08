@@ -497,5 +497,35 @@
     "tags": [
       "defouloirs", "piano"
     ]
+  },
+  {
+    "titre": "Ookii Otera",
+    "fichier": "assets/mp3/KG1 - Ookii Otera.mp3",
+    "miniature": "assets/img/Kokeshi.png",
+    "description": "Japanese magical sound.",
+    "date": "September 2024",
+    "tags": [
+      "ambient", "japanese"
+    ]
+  },
+  {
+    "titre": "Kawa No Mezame",
+    "fichier": "assets/mp3/KG2 - Kawa No Mezame.mp3",
+    "miniature": "assets/img/Kokeshi.png",
+    "description": "Japanese magical sound.",
+    "date": "September 2024",
+    "tags": [
+      "ambient", "japanese"
+    ]
+  },
+  {
+    "titre": "Gimon",
+    "fichier": "assets/mp3/KG3 - Gimon.mp3",
+    "miniature": "assets/img/Kokeshi.png",
+    "description": "Japanese magical sound.",
+    "date": "September 2024",
+    "tags": [
+      "ambient", "japanese"
+    ]
   }
 ]

@@ -1,8 +1,0 @@
-OK Make logo
-OK Make logo vectoriel
-OK Projects and corresponding filterings
-OK Test pagination
-OK Recherche
-Dwld button
-1er Push -> tester dwld & acces jsons
-Faire bdd json
