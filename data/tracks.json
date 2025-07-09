@@ -4,7 +4,8 @@
     "fichier": "assets/mp3/CM01.mp3",
     "miniature": "assets/img/ChillMountain.png",
     "description": "Piano piece. Peaceful & relaxing.",
-    "date": "May 2023",
+    "dateStr": "May 2023",
+    "date": "2023-05-01",
     "tags": [
       "chill mountain",
       "piano"
@@ -15,7 +16,8 @@
     "fichier": "assets/mp3/CM02.mp3",
     "miniature": "assets/img/ChillMountain.png",
     "description": "Piano piece. Peaceful & relaxing.",
-    "date": "May 2023",
+    "dateStr": "May 2023",
+    "date": "2023-05-01",
     "tags": [
       "chill mountain",
       "piano"
@@ -26,7 +28,8 @@
     "fichier": "assets/mp3/CM03.mp3",
     "miniature": "assets/img/ChillMountain.png",
     "description": "Piano piece. Peaceful & relaxing.",
-    "date": "May 2023",
+    "dateStr": "May 2023",
+    "date": "2023-05-01",
     "tags": [
       "chill mountain",
       "piano"
@@ -37,7 +40,8 @@
     "fichier": "assets/mp3/CM04.mp3",
     "miniature": "assets/img/ChillMountain.png",
     "description": "Piano piece. Peaceful & relaxing.",
-    "date": "May 2023",
+    "dateStr": "May 2023",
+    "date": "2023-05-01",
     "tags": [
       "chill mountain",
       "piano"
@@ -48,7 +52,8 @@
     "fichier": "assets/mp3/CM05.mp3",
     "miniature": "assets/img/ChillMountain.png",
     "description": "Piano piece. Peaceful & relaxing.",
-    "date": "May 2023",
+    "dateStr": "May 2023",
+    "date": "2023-05-01",
     "tags": [
       "chill mountain",
       "piano"
@@ -59,7 +64,8 @@
     "fichier": "assets/mp3/CM06.mp3",
     "miniature": "assets/img/ChillMountain.png",
     "description": "Piano piece. Peaceful & relaxing.",
-    "date": "May 2023",
+    "dateStr": "May 2023",
+    "date": "2023-05-01",
     "tags": [
       "chill mountain",
       "piano"
@@ -70,7 +76,8 @@
     "fichier": "assets/mp3/CM07.mp3",
     "miniature": "assets/img/ChillMountain.png",
     "description": "Piano piece. Peaceful & relaxing.",
-    "date": "May 2023",
+    "dateStr": "May 2023",
+    "date": "2023-05-01",
     "tags": [
       "chill mountain",
       "piano"
@@ -81,7 +88,8 @@
     "fichier": "assets/mp3/CM08.mp3",
     "miniature": "assets/img/ChillMountain.png",
     "description": "Piano piece. Peaceful & relaxing.",
-    "date": "May 2023",
+    "dateStr": "May 2023",
+    "date": "2023-05-01",
     "tags": [
       "chill mountain",
       "piano"
@@ -92,7 +100,8 @@
     "fichier": "assets/mp3/CM09.mp3",
     "miniature": "assets/img/ChillMountain.png",
     "description": "Piano piece. Peaceful & relaxing.",
-    "date": "May 2023",
+    "dateStr": "May 2023",
+    "date": "2023-05-01",
     "tags": [
       "chill mountain",
       "piano"
@@ -103,7 +112,8 @@
     "fichier": "assets/mp3/Tokai Rock.mp3",
     "miniature": "assets/img/Handpan_EP.png",
     "description": "Little composition for 1 handpan drum and 2 baguettes.",
-    "date": "October 2023",
+    "dateStr": "October 2023",
+    "date": "2023-10-01",
     "tags": [
       "handpan ep", "handpan"
     ]
@@ -113,7 +123,8 @@
     "fichier": "assets/mp3/Som Tree.mp3",
     "miniature": "assets/img/Handpan_EP.png",
     "description": "Little composition for 1 handpan drum and 2 baguettes.",
-    "date": "October 2023",
+    "dateStr": "October 2023",
+    "date": "2023-10-01",
     "tags": [
       "handpan ep", "handpan"
     ]
@@ -123,7 +134,8 @@
     "fichier": "assets/mp3/Iridescence.mp3",
     "miniature": "assets/img/Handpan_EP.png",
     "description": "Little composition for 1 handpan drum and 2 baguettes.",
-    "date": "October 2023",
+    "dateStr": "October 2023",
+    "date": "2023-10-01",
     "tags": [
       "handpan ep", "handpan"
     ]
@@ -133,7 +145,8 @@
     "fichier": "assets/mp3/Crab.mp3",
     "miniature": "assets/img/Ukulex.png",
     "description": "Uku & whistle song.",
-    "date": "November 2023",
+    "dateStr": "November 2023",
+    "date": "2023-11-01",
     "tags": [
       "ukulex", "ukulele", "summer"
     ]
@@ -143,7 +156,8 @@
     "fichier": "assets/mp3/Gobi.mp3",
     "miniature": "assets/img/Ukulex.png",
     "description": "Uku & whistle song.",
-    "date": "November 2023",
+    "dateStr": "November 2023",
+    "date": "2023-11-01",
     "tags": [
       "ukulex", "ukulele", "summer"
     ]
@@ -153,7 +167,8 @@
     "fichier": "assets/mp3/Legend.mp3",
     "miniature": "assets/img/Ukulex.png",
     "description": "Uku & whistle song. Adapted from a Rayman Legend theme.",
-    "date": "November 2023",
+    "dateStr": "November 2023",
+    "date": "2023-11-01",
     "tags": [
       "ukulex", "ukulele", "summer"
     ]
@@ -163,7 +178,8 @@
     "fichier": "assets/mp3/Origin.mp3",
     "miniature": "assets/img/Ukulex.png",
     "description": "Uku & whistle song. Adapted from a Rayman Origin theme.",
-    "date": "November 2023",
+    "dateStr": "November 2023",
+    "date": "2023-11-01",
     "tags": [
       "ukulex", "ukulele", "summer"
     ]
@@ -173,7 +189,8 @@
     "fichier": "assets/mp3/Tortuga.mp3",
     "miniature": "assets/img/Ukulex.png",
     "description": "Uku & whistle song.",
-    "date": "November 2023",
+    "dateStr": "November 2023",
+    "date": "2023-11-01",
     "tags": [
       "ukulex", "ukulele", "summer"
     ]
@@ -183,7 +200,8 @@
     "fichier": "assets/mp3/Zarb.mp3",
     "miniature": "assets/img/Ukulex.png",
     "description": "Uku & whistle song.",
-    "date": "November 2023",
+    "dateStr": "November 2023",
+    "date": "2023-11-01",
     "tags": [
       "ukulex", "ukulele", "summer"
     ]
@@ -193,7 +211,8 @@
     "fichier": "assets/mp3/Bubble Mood.mp3",
     "miniature": "assets/img/NoImage.png",
     "description": "Jazzy cocktail song.",
-    "date": "March 2017",
+    "dateStr": "March 2017",
+    "date": "2017-03-01",
     "tags": [
       "jazz"
     ]
@@ -203,7 +222,8 @@
     "fichier": "assets/mp3/Bella Frigoris.mp3",
     "miniature": "assets/img/NoImage.png",
     "description": "Strange orchestral song, with tubular bells.",
-    "date": "March 2017",
+    "dateStr": "March 2017",
+    "date": "2017-03-01",
     "tags": [
       "orchestral"
     ]
@@ -213,7 +233,8 @@
     "fichier": "assets/mp3/HnU01 - Rukt (training).mp3",
     "miniature": "assets/img/HangNUdu.png",
     "description": "Rythmical forest song, fake handpan and udu.",
-    "date": "December 2018",
+    "dateStr": "December 2018",
+    "date": "2018-12-01",
     "tags": [
       "hangnudu works", "handpan", "nature"
     ]
@@ -223,7 +244,8 @@
     "fichier": "assets/mp3/HnU02 - Gulo (a meal).mp3",
     "miniature": "assets/img/HangNUdu.png",
     "description": "Rythmical forest song, fake handpan and udu.",
-    "date": "December 2018",
+    "dateStr": "December 2018",
+    "date": "2018-12-01",
     "tags": [
       "hangnudu works", "handpan", "nature"
     ]
@@ -233,7 +255,8 @@
     "fichier": "assets/mp3/HnU03 - Sen Boou (wide forest).mp3",
     "miniature": "assets/img/HangNUdu.png",
     "description": "Rythmical forest song, fake handpan and udu.",
-    "date": "December 2018",
+    "dateStr": "December 2018",
+    "date": "2018-12-01",
     "tags": [
       "hangnudu works", "handpan", "nature"
     ]
@@ -243,7 +266,8 @@
     "fichier": "assets/mp3/HnU04 - Lillin (women).mp3",
     "miniature": "assets/img/HangNUdu.png",
     "description": "Rythmical forest song, fake handpan and udu.",
-    "date": "December 2018",
+    "dateStr": "December 2018",
+    "date": "2018-12-01",
     "tags": [
       "hangnudu works", "handpan", "nature"
     ]
@@ -253,7 +277,8 @@
     "fichier": "assets/mp3/HnU05 - Kudu (working).mp3",
     "miniature": "assets/img/HangNUdu.png",
     "description": "Rythmical forest song, fake handpan and udu.",
-    "date": "December 2018",
+    "dateStr": "December 2018",
+    "date": "2018-12-01",
     "tags": [
       "hangnudu works", "handpan", "nature"
     ]
@@ -263,7 +288,8 @@
     "fichier": "assets/mp3/HnU06 - Veo Do (joy).mp3",
     "miniature": "assets/img/HangNUdu.png",
     "description": "Rythmical forest song, fake handpan and udu.",
-    "date": "December 2018",
+    "dateStr": "December 2018",
+    "date": "2018-12-01",
     "tags": [
       "hangnudu works", "handpan", "nature"
     ]
@@ -273,7 +299,8 @@
     "fichier": "assets/mp3/HnU07 - Dii (community).mp3",
     "miniature": "assets/img/HangNUdu.png",
     "description": "Rythmical forest song, fake handpan and udu.",
-    "date": "December 2018",
+    "dateStr": "December 2018",
+    "date": "2018-12-01",
     "tags": [
       "hangnudu works", "handpan", "nature"
     ]
@@ -283,7 +310,8 @@
     "fichier": "assets/mp3/HnU08 - Toka (hunting).mp3",
     "miniature": "assets/img/HangNUdu.png",
     "description": "Rythmical forest song, fake handpan and udu.",
-    "date": "December 2018",
+    "dateStr": "December 2018",
+    "date": "2018-12-01",
     "tags": [
       "hangnudu works", "handpan", "nature"
     ]
@@ -293,7 +321,8 @@
     "fichier": "assets/mp3/HnU09 - Glo (the river).mp3",
     "miniature": "assets/img/HangNUdu.png",
     "description": "Rythmical forest song, fake handpan and udu.",
-    "date": "December 2018",
+    "dateStr": "December 2018",
+    "date": "2018-12-01",
     "tags": [
       "hangnudu works", "handpan", "nature"
     ]
@@ -303,7 +332,8 @@
     "fichier": "assets/mp3/HnU10 - Glu Fiza (rain).mp3",
     "miniature": "assets/img/HangNUdu.png",
     "description": "Rythmical forest song, fake handpan and udu.",
-    "date": "December 2018",
+    "dateStr": "December 2018",
+    "date": "2018-12-01",
     "tags": [
       "hangnudu works", "handpan", "nature"
     ]
@@ -313,7 +343,8 @@
     "fichier": "assets/mp3/HnU11 - Movo Mivi (boredom).mp3",
     "miniature": "assets/img/HangNUdu.png",
     "description": "Rythmical forest song, fake handpan and udu.",
-    "date": "December 2018",
+    "dateStr": "December 2018",
+    "date": "2018-12-01",
     "tags": [
       "hangnudu works", "handpan", "nature"
     ]
@@ -323,7 +354,8 @@
     "fichier": "assets/mp3/HnU12 - Suve (by night).mp3",
     "miniature": "assets/img/HangNUdu.png",
     "description": "Rythmical forest song, fake handpan and udu.",
-    "date": "December 2018",
+    "dateStr": "December 2018",
+    "date": "2018-12-01",
     "tags": [
       "hangnudu works", "handpan", "nature"
     ]
@@ -333,7 +365,8 @@
     "fichier": "assets/mp3/HnU13 - Kuduni (tool).mp3",
     "miniature": "assets/img/HangNUdu.png",
     "description": "Rythmical forest song, fake handpan and udu.",
-    "date": "December 2018",
+    "dateStr": "December 2018",
+    "date": "2018-12-01",
     "tags": [
       "hangnudu works", "handpan", "nature"
     ]
@@ -343,7 +376,8 @@
     "fichier": "assets/mp3/HnU14 - Vimi Mivi (slumber).mp3",
     "miniature": "assets/img/HangNUdu.png",
     "description": "Rythmical forest song, fake handpan and udu.",
-    "date": "December 2018",
+    "dateStr": "December 2018",
+    "date": "2018-12-01",
     "tags": [
       "hangnudu works", "handpan", "nature"
     ]
@@ -353,7 +387,8 @@
     "fichier": "assets/mp3/HnU15 - Tillin (children).mp3",
     "miniature": "assets/img/HangNUdu.png",
     "description": "Rythmical forest song, fake handpan and udu.",
-    "date": "December 2018",
+    "dateStr": "December 2018",
+    "date": "2018-12-01",
     "tags": [
       "hangnudu works", "handpan", "nature"
     ]
@@ -363,7 +398,8 @@
     "fichier": "assets/mp3/HnU16 - Dimas (dwelling).mp3",
     "miniature": "assets/img/HangNUdu.png",
     "description": "Rythmical forest song, fake handpan and udu.",
-    "date": "December 2018",
+    "dateStr": "December 2018",
+    "date": "2018-12-01",
     "tags": [
       "hangnudu works", "handpan", "nature"
     ]
@@ -373,7 +409,8 @@
     "fichier": "assets/mp3/HnU17 - Eo Do (hope).mp3",
     "miniature": "assets/img/HangNUdu.png",
     "description": "Rythmical forest song, fake handpan and udu.",
-    "date": "December 2018",
+    "dateStr": "December 2018",
+    "date": "2018-12-01",
     "tags": [
       "hangnudu works", "handpan", "nature"
     ]
@@ -383,7 +420,8 @@
     "fichier": "assets/mp3/HnU18 - Sek Vo (cold).mp3",
     "miniature": "assets/img/HangNUdu.png",
     "description": "Rythmical forest song, fake handpan and udu.",
-    "date": "December 2018",
+    "dateStr": "December 2018",
+    "date": "2018-12-01",
     "tags": [
       "hangnudu works", "handpan", "nature"
     ]
@@ -393,7 +431,8 @@
     "fichier": "assets/mp3/HnU19 - Rilli (friends).mp3",
     "miniature": "assets/img/HangNUdu.png",
     "description": "Rythmical forest song, fake handpan and udu.",
-    "date": "December 2018",
+    "dateStr": "December 2018",
+    "date": "2018-12-01",
     "tags": [
       "hangnudu works", "handpan", "nature"
     ]
@@ -403,7 +442,8 @@
     "fichier": "assets/mp3/HnU20 - Illin (me).mp3",
     "miniature": "assets/img/HangNUdu.png",
     "description": "Rythmical forest song, fake handpan and udu.",
-    "date": "December 2018",
+    "dateStr": "December 2018",
+    "date": "2018-12-01",
     "tags": [
       "hangnudu works", "handpan", "nature"
     ]
@@ -413,7 +453,8 @@
     "fichier": "assets/mp3/All Night.mp3",
     "miniature": "assets/img/Defouloirs.png",
     "description": "My piano version of Parov Stelar's All Night song.",
-    "date": "2022",
+    "dateStr": "2022",
+    "date": "2022-01-01",
     "tags": [
       "defouloirs", "piano"
     ]
@@ -423,7 +464,8 @@
     "fichier": "assets/mp3/Harmonium.mp3",
     "miniature": "assets/img/Defouloirs.png",
     "description": "A piano version of a 1975 song by Harmonium named Dixie.",
-    "date": "2022",
+    "dateStr": "2022",
+    "date": "2022-01-01",
     "tags": [
       "defouloirs", "piano"
     ]
@@ -433,7 +475,8 @@
     "fichier": "assets/mp3/Interstellar.mp3",
     "miniature": "assets/img/Defouloirs.png",
     "description": "A piano version of Hans Zimmer's Cornfield Chase song.",
-    "date": "2022",
+    "dateStr": "2022",
+    "date": "2022-01-01",
     "tags": [
       "defouloirs", "piano"
     ]
@@ -443,7 +486,8 @@
     "fichier": "assets/mp3/Le Jabberwoc.mp3",
     "miniature": "assets/img/Defouloirs.png",
     "description": "A piano version of a Steve Waring song.",
-    "date": "2022",
+    "dateStr": "2022",
+    "date": "2022-01-01",
     "tags": [
       "defouloirs", "piano"
     ]
@@ -453,7 +497,8 @@
     "fichier": "assets/mp3/Le Stylo.mp3",
     "miniature": "assets/img/Defouloirs.png",
     "description": "A piano version of a 1987 Steve Waring Song.",
-    "date": "2022",
+    "dateStr": "2022",
+    "date": "2022-01-01",
     "tags": [
       "defouloirs", "piano"
     ]
@@ -463,7 +508,8 @@
     "fichier": "assets/mp3/Le Poinconneur des Lilas.mp3",
     "miniature": "assets/img/Defouloirs.png",
     "description": "My piano version of Serge Gainsbourg's famous song (1958).",
-    "date": "2022",
+    "dateStr": "2022",
+    "date": "2022-01-01",
     "tags": [
       "defouloirs", "piano"
     ]
@@ -473,7 +519,8 @@
     "fichier": "assets/mp3/Plane.mp3",
     "miniature": "assets/img/Defouloirs.png",
     "description": "A minor and energic piano piece.",
-    "date": "2022",
+    "dateStr": "2022",
+    "date": "2022-01-01",
     "tags": [
       "defouloirs", "piano"
     ]
@@ -483,7 +530,8 @@
     "fichier": "assets/mp3/Spermato Jack.mp3",
     "miniature": "assets/img/Defouloirs.png",
     "description": "A minor and energic piano piece.",
-    "date": "2022",
+    "dateStr": "2022",
+    "date": "2022-01-01",
     "tags": [
       "defouloirs", "piano"
     ]
@@ -493,7 +541,8 @@
     "fichier": "assets/mp3/Trompettes De La Renommee.mp3",
     "miniature": "assets/img/Defouloirs.png",
     "description": "A 5/4 piano version of a 1962 Georges Brassens song.",
-    "date": "2022",
+    "dateStr": "2022",
+    "date": "2022-01-01",
     "tags": [
       "defouloirs", "piano"
     ]
@@ -503,7 +552,8 @@
     "fichier": "assets/mp3/KG1 - Ookii Otera.mp3",
     "miniature": "assets/img/Kokeshi.png",
     "description": "Japanese magical sound.",
-    "date": "September 2024",
+    "dateStr": "September 2024",
+    "date": "2024-09-01",
     "tags": [
       "ambient", "japanese"
     ]
@@ -513,7 +563,8 @@
     "fichier": "assets/mp3/KG2 - Kawa No Mezame.mp3",
     "miniature": "assets/img/Kokeshi.png",
     "description": "Japanese magical sound.",
-    "date": "September 2024",
+    "dateStr": "September 2024",
+    "date": "2024-09-01",
     "tags": [
       "ambient", "japanese"
     ]
@@ -523,7 +574,8 @@
     "fichier": "assets/mp3/KG3 - Gimon.mp3",
     "miniature": "assets/img/Kokeshi.png",
     "description": "Japanese magical sound.",
-    "date": "September 2024",
+    "dateStr": "September 2024",
+    "date": "2024-09-01",
     "tags": [
       "ambient", "japanese"
     ]
@@ -533,7 +585,8 @@
     "fichier": "assets/mp3/Solar.mp3",
     "miniature": "assets/img/Periapside.png",
     "description": "Atmoshpere/Lounge song inspired by space objects. That one's for the Sun.",
-    "date": "October 2016",
+    "dateStr": "October 2016",
+    "date": "2016-10-01",
     "tags": [
       "ambient", "periapside"
     ]
@@ -543,7 +596,8 @@
     "fichier": "assets/mp3/D-Strict.mp3",
     "miniature": "assets/img/D-Strict.png",
     "description": "",
-    "date": "February 2011",
+    "dateStr": "February 2011",
+    "date": "2011-02-01",
     "tags": []
   },
   {
@@ -551,7 +605,8 @@
     "fichier": "assets/mp3/Fun WInter.mp3",
     "miniature": "assets/img/NoImage.png",
     "description": "",
-    "date": "December 2009",
+    "dateStr": "December 2009",
+    "date": "2009-12-01",
     "tags": []
   },
   {
@@ -559,7 +614,8 @@
     "fichier": "assets/mp3/Oniric Dance.mp3",
     "miniature": "assets/img/NoImage.png",
     "description": "",
-    "date": "May 2011",
+    "dateStr": "May 2011",
+    "date": "2011-05-01",
     "tags": []
   },
   {
@@ -567,7 +623,8 @@
     "fichier": "assets/mp3/Perplex Heart.mp3",
     "miniature": "assets/img/NoImage.png",
     "description": "",
-    "date": "September 2014",
+    "dateStr": "September 2014",
+    "date": "2014-09-01",
     "tags": []
   },
   {
@@ -575,7 +632,8 @@
     "fichier": "assets/mp3/Oeln Gati Kamaye.mp3",
     "miniature": "assets/img/NoImage.png",
     "description": "",
-    "date": "Juin 2012",
+    "dateStr": "Juin 2012",
+    "date": "2012-06-01",
     "tags": []
   },
   {
@@ -583,7 +641,8 @@
     "fichier": "assets/mp3/01 - Coronita.mp3",
     "miniature": "assets/img/PSP.png",
     "description": "",
-    "date": "December 2016",
+    "dateStr": "December 2016",
+    "date": "2016-12-01",
     "tags": [
       "piano styles project", "piano"
     ]
@@ -593,7 +652,8 @@
     "fichier": "assets/mp3/02 - The Lonesome Donkey.mp3",
     "miniature": "assets/img/PSP.png",
     "description": "",
-    "date": "September 2015",
+    "dateStr": "September 2015",
+    "date": "2015-09-01",
     "tags": [
       "piano styles project", "piano"
     ]
@@ -603,7 +663,8 @@
     "fichier": "assets/mp3/03 - What's Down.mp3",
     "miniature": "assets/img/PSP.png",
     "description": "",
-    "date": "January 2016",
+    "dateStr": "January 2016",
+    "date": "2016-01-01",
     "tags": [
       "piano styles project", "piano"
     ]
@@ -613,7 +674,8 @@
     "fichier": "assets/mp3/04 - Spike.mp3",
     "miniature": "assets/img/PSP.png",
     "description": "",
-    "date": "December 2016",
+    "dateStr": "December 2016",
+    "date": "2016-12-01",
     "tags": [
       "piano styles project", "piano"
     ]
@@ -623,7 +685,8 @@
     "fichier": "assets/mp3/05 - Carnicature.mp3",
     "miniature": "assets/img/PSP.png",
     "description": "",
-    "date": "December 2016",
+    "dateStr": "December 2016",
+    "date": "2016-12-01",
     "tags": [
       "piano styles project", "piano"
     ]
@@ -633,7 +696,8 @@
     "fichier": "assets/mp3/06 - Tango style.mp3",
     "miniature": "assets/img/PSP.png",
     "description": "",
-    "date": "December 2016",
+    "dateStr": "December 2016",
+    "date": "2016-12-01",
     "tags": [
       "piano styles project", "piano"
     ]
@@ -643,7 +707,8 @@
     "fichier": "assets/mp3/07 - Zoo.mp3",
     "miniature": "assets/img/PSP.png",
     "description": "",
-    "date": "Mars 2016",
+    "dateStr": "Mars 2016",
+    "date": "2016-03-01",
     "tags": [
       "piano styles project", "piano"
     ]
@@ -653,7 +718,8 @@
     "fichier": "assets/mp3/08 - Valse Qui Pique.mp3",
     "miniature": "assets/img/PSP.png",
     "description": "",
-    "date": "December 2016",
+    "dateStr": "December 2016",
+    "date": "2016-12-01",
     "tags": [
       "piano styles project", "piano"
     ]
@@ -663,7 +729,8 @@
     "fichier": "assets/mp3/09 - Sucha Rag.mp3",
     "miniature": "assets/img/PSP.png",
     "description": "",
-    "date": "December 2016",
+    "dateStr": "December 2016",
+    "date": "2016-12-01",
     "tags": [
       "piano styles project", "piano"
     ]
@@ -673,7 +740,8 @@
     "fichier": "assets/mp3/10 - Above seas.mp3",
     "miniature": "assets/img/PSP.png",
     "description": "",
-    "date": "December 2016",
+    "dateStr": "December 2016",
+    "date": "2016-12-01",
     "tags": [
       "piano styles project", "piano"
     ]
@@ -683,7 +751,8 @@
     "fichier": "assets/mp3/11 - Albatros.mp3",
     "miniature": "assets/img/PSP.png",
     "description": "",
-    "date": "December 2016",
+    "dateStr": "December 2016",
+    "date": "2016-12-01",
     "tags": [
       "piano styles project", "piano"
     ]
@@ -693,7 +762,8 @@
     "fichier": "assets/mp3/12 - Eleven Clouds.mp3",
     "miniature": "assets/img/PSP.png",
     "description": "",
-    "date": "December 2016",
+    "dateStr": "December 2016",
+    "date": "2016-12-01",
     "tags": [
       "piano styles project", "piano"
     ]

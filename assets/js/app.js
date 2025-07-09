@@ -1,7 +1,7 @@
-let tracks = []; // Comment and uncomment below if local
-// let tracks = [{"titre":"Chill Mountain 1","fichier":"assets/mp3/CM01.mp3","miniature":"assets/img/ChillMountain.png","description":"Piano piece. Peaceful & relaxing.","date":"May 2023","tags":["chill mountain","piano"]},{"titre":"Chill Mountain 2","fichier":"assets/mp3/CM02.mp3","miniature":"assets/img/ChillMountain.png","description":"Piano piece. Peaceful & relaxing.","date":"May20 23","tags":["chill mountain","piano"]},{"titre":"Chill Mountain 3","fichier":"assets/mp3/CM03.mp3","miniature":"assets/img/ChillMountain.png","description":"Piano piece. Peaceful & relaxing.","date":"May 2023","tags":["chill mountain","piano"]},{"titre":"Tokai Rock","fichier":"assets/mp3/Tokai Rock.mp3","miniature":"assets/img/Handpan_EP.png","description":"Little composition for 1 handpan drum and 2 baguettes.","date":"October 2023","tags":["handpan ep"]},{"titre":"Som Tree","fichier":"assets/mp3/Som Tree.mp3","miniature":"assets/img/Handpan_EP.png","description":"Little composition for 1 handpan drum and 2 baguettes.","date":"October 2023","tags":["handpan ep"]},{"titre":"Iridescence","fichier":"assets/mp3/Iridescence.mp3","miniature":"assets/img/Handpan_EP.png","description":"Little composition for 1 handpan drum and 2 baguettes.","date":"October 2023","tags":["handpan ep"]}]; 
-let allTags = []; // Comment and uncomment below if local
-// let allTags = [{"label":"chill mountain","couleur":"#007BFF"},{"label":"piano","couleur":"#6C757D"},{"label":"handpan ep","couleur":"#6610f2"}]; 
+//let tracks = []; // Comment and uncomment below if local
+let tracks = [{"titre":"Chill Mountain 1","fichier":"assets/mp3/CM01.mp3","miniature":"assets/img/ChillMountain.png","description":"Piano piece. Peaceful & relaxing.","dateStr":"May 2023","date":"2025-01-04","tags":["chill mountain","piano"]},{"titre":"Chill Mountain 2","fichier":"assets/mp3/CM02.mp3","miniature":"assets/img/ChillMountain.png","description":"Piano piece. Peaceful & relaxing.","dateStr":"May 2023","date":"2025-01-03","tags":["chill mountain","piano"]},{"titre":"Chill Mountain 3","fichier":"assets/mp3/CM03.mp3","miniature":"assets/img/ChillMountain.png","description":"Piano piece. Peaceful & relaxing.","dateStr":"May 2023","date":"2025-01-02","tags":["chill mountain","piano"]},{"titre":"Tokai Rock","fichier":"assets/mp3/Tokai Rock.mp3","miniature":"assets/img/Handpan_EP.png","description":"Little composition for 1 handpan drum and 2 baguettes.","dateStr":"October 2023","date":"2025-01-01","tags":["handpan ep"]},{"titre":"Som Tree","fichier":"assets/mp3/Som Tree.mp3","miniature":"assets/img/Handpan_EP.png","description":"Little composition for 1 handpan drum and 2 baguettes.","dateStr":"October 2023","date":"2025-01-06","tags":["handpan ep"]},{"titre":"Iridescence","fichier":"assets/mp3/Iridescence.mp3","miniature":"assets/img/Handpan_EP.png","description":"Little composition for 1 handpan drum and 2 baguettes.","dateStr":"October 2023","date":"2025-01-03","tags":["handpan ep"]}]; 
+//let allTags = []; // Comment and uncomment below if local
+let allTags = [{"label":"chill mountain","couleur":"#007BFF"},{"label":"piano","couleur":"#6C757D"},{"label":"handpan ep","couleur":"#6610f2"}]; 
 let allTag = { "label": "ALL", "couleur": "#000000" }
 
 let currentPage = 1;
@@ -15,7 +15,8 @@ document.addEventListener("DOMContentLoaded", async () => {
   const tagsRequest = await fetch("../data/tags.json"); // Comment if local
   tracks = await tracksRequest.json(); // Comment if local
   allTags = await tagsRequest.json(); // Comment if local
-  filteredTracks = [...tracks].sort((a, b) => new Date(b.date) - new Date(a.date));
+  tracks = [...tracks].sort((a, b) => new Date(b.date) - new Date(a.date));
+  filteredTracks = tracks;
   renderTracks();
   filteredTags.push(...allTags);
   renderCurrentTags();
@@ -45,7 +46,7 @@ function renderTracks() {
         <div class="article-item"><img src="${track.miniature}" alt="Miniature" class="miniature"></div>
         <div class="article-item">
           <h3>${track.titre}</h3>
-          <p class="song-date">${track.date}</p>
+          <p class="song-date">${track.dateStr}</p>
           <div>
             <button class="play-pause-buttons" onclick="playTrack('${track.fichier}', '${track.titre}')"><img class="play-download-button" src="assets/img/play-button.svg"/></button>
             <a target="_blank" href="${track.fichier}" download><button class="play-pause-buttons"><img class="play-download-button" src="assets/img/download-button.svg"/></button></a>
@@ -61,7 +62,7 @@ function renderTracks() {
 
 function getTagByLabel(label) {
   const foundTag = allTags.find(t => t.label == label);
-  return `<span class="tag" title="Only display songs with this tag" style="background-color: ${foundTag.couleur}; cursor: pointer" onclick="filterTracksByTag('${foundTag.label}')">${foundTag.label}</span>`
+  return `<span class="tag" title="Only display songs with tag ${foundTag.label}" style="background-color: ${foundTag.couleur}; cursor: pointer" onclick="filterTracksByTag('${foundTag.label}')">${foundTag.label}</span>`
 }
 
 function renderPagination() {
@@ -85,7 +86,7 @@ function renderPagination() {
 
 function renderCurrentTags() {
   const currentTags = document.getElementById('current-tags');
-  currentTags.innerHTML = filteredTags.map(t => `<span class="tag" title="Only display songs with this tag" style="background-color: ${t.couleur}; cursor: pointer" onclick="filterTracksByTag('${t.label}')">${t.label}</span>`).join(" ");
+  currentTags.innerHTML = filteredTags.map(t => `<span class="tag" title="Only display songs with tag ${t.label}" style="background-color: ${t.couleur}; cursor: pointer" onclick="filterTracksByTag('${t.label}')">${t.label}</span>`).join(" ");
 }
 
 // FUNCTIONS
